@@ -1,0 +1,18 @@
+[
+  {
+    "algorithm": "bfs",
+    "solution_found": false,
+    "path_cost": 0.0,
+    "nodes_expanded": 9,
+    "runtime_seconds": 1.7084000319300685e-05,
+    "failure_reason": "depth_limit"
+  },
+  {
+    "algorithm": "dfs",
+    "solution_found": false,
+    "path_cost": 0.0,
+    "nodes_expanded": 9,
+    "runtime_seconds": 1.1416999768698588e-05,
+    "failure_reason": "depth_limit"
+  }
+]

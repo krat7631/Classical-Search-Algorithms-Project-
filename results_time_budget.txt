@@ -1,0 +1,2 @@
+bfs: found=True, path_cost=8.0, nodes=18, time=0.000033s
+dfs: found=True, path_cost=8.0, nodes=17, time=0.000023s

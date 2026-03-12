@@ -1,0 +1,18 @@
+[
+  {
+    "algorithm": "bfs",
+    "solution_found": true,
+    "path_cost": 8.0,
+    "nodes_expanded": 18,
+    "runtime_seconds": 3.199999991920777e-05,
+    "failure_reason": null
+  },
+  {
+    "algorithm": "dfs",
+    "solution_found": true,
+    "path_cost": 8.0,
+    "nodes_expanded": 17,
+    "runtime_seconds": 2.208299974881811e-05,
+    "failure_reason": null
+  }
+]

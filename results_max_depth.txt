@@ -1,0 +1,2 @@
+bfs: found=False, path_cost=0.0, nodes=7, time=0.000015s, fail=depth_limit
+dfs: found=False, path_cost=0.0, nodes=7, time=0.000009s, fail=depth_limit
